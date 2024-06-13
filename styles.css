@@ -1,0 +1,32 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+}
+
+.bg-green {
+    background-color: #4CAF50;
+}
+
+.btn-green {
+    background-color: #4CAF50;
+    color: #fff;
+}
+
+.btn-green:hover {
+    background-color: #45a049;
+    color: #fff;
+}
+
+.card {
+    border: none;
+    border-radius: 0.75rem;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.border-green {
+    border-top: 4px solid #4CAF50;
+}
+
+footer {
+    background-color: #343a40;
+}
