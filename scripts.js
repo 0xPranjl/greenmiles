@@ -39,13 +39,13 @@ document.addEventListener('DOMContentLoaded', function() {
         path: './green.json' // Replace with the path to your animation file
     });
 
-    var animationContainer4 = document.getElementById('lottie-animation-skale');
+    // var animationContainer4 = document.getElementById('lottie-animation-skale');
 
-    var animation = lottie.loadAnimation({
-        container: animationContainer4,
-        renderer: 'svg',
-        loop: true,
-        autoplay: true,
-        path: './skale.json' // Replace with the path to your animation file
-    });
+    // var animation = lottie.loadAnimation({
+    //     container: animationContainer4,
+    //     renderer: 'svg',
+    //     loop: true,
+    //     autoplay: true,
+    //     path: './skale.json' // Replace with the path to your animation file
+    // });
 });
