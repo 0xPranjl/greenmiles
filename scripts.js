@@ -49,7 +49,7 @@ document.addEventListener('DOMContentLoaded', function() {
         renderer: 'svg',
         loop: true,
         autoplay: true,
-        path: './skale.json' // Replace with the path to your animation file
+        path: './skaaale.json' // Replace with the path to your animation file
     });
 });
 
