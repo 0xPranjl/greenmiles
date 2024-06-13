@@ -1,10 +1,6 @@
 // script.js
 document.addEventListener('DOMContentLoaded', function() {
-    var animationContainer = document.getElementById('lottie-animation');
-
-        var video = document.getElementById('intro-video');
-        video.play();
- 
+   
     var animation = lottie.loadAnimation({
         container: animationContainer,
         renderer: 'svg',
